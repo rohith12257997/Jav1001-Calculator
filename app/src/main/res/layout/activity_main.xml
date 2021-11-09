@@ -8,12 +8,14 @@
     android:orientation="vertical"
     android:background="@color/darkGrey"
     tools:context=".MainActivity">
-
+    <!-- Created this linear layout for taking inputs and display outputs -->
+    <!-- Created two text views one is called as workings ie used for inputs and results for output -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
         android:layout_weight="3">
+
 
         <TextView
             android:layout_width="wrap_content"
@@ -43,6 +45,7 @@
 
     </LinearLayout>
 
+    <!-- Below are Created for designing the buttons and its properties -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
