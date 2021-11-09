@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Created this file for using the text size rather than hard coding it everywhere -->
 <resources>
 
     <dimen name="calcButtonTextSize">25sp</dimen>
